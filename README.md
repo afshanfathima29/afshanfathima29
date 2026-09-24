@@ -62,7 +62,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
- <img src="https://github-readme-stats.vercel.app/api?username=afshanfathima29&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=afshanfathima29&theme=dracula&hide_border=false" alt="GitHub Streak" />
   
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afshanfathima29&theme=dracula&hide_border=false" alt="GitHub Streak" />
