@@ -61,14 +61,14 @@
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card (Using official reliable mirror) -->
   <img src="https://github-readme-stats.vercel.app/api?username=afshanfathima29&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" />
   
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak Card (Already working) -->
   <img src="https://streak-stats.demolab.com?user=afshanfathima29&theme=dracula" alt="GitHub Streak" />
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshanfathima29&layout=compact&langs_count=5&theme=dracula" alt="Top Languages" />
+  <!-- Activity Graph (The best alternative to language/stats cards that never breaks) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afshanfathima29&theme=dracula&hide_border=false&area=true" alt="Activity Graph" />
 </div>
 
 ---
