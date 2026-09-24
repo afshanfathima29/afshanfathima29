@@ -60,15 +60,12 @@
 
 ### 📊 GitHub Analytics & Stats
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=afshanfathima29&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  
+<div align="center"> 
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afshanfathima29&theme=dracula&hide_border=false" alt="GitHub Streak" />
 
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshanfathima29&layout=compact&langs_count=5&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afshanfathima29&theme=dracula&hide_border=false&area=true" alt="Activity Graph" />
 </div>
 
 ---
