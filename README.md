@@ -53,8 +53,8 @@
 
 ### 💻 Featured Projects
 > *(You can link some of your best repositories here!)*
-- **[Project Name 1](https://github.com/afshanfathima29/AlertNinja)** – A network scanning GUI-based tool for beginner of cyber security to understand CLI better.
-- **[Project Name 2](https://replit.com/@sultanaayesha34/SafeStop-Ai)** – A web application designed using Replit for emergency notification and location sharing with family and friends.
+- **[AlertNinja](https://github.com/afshanfathima29/AlertNinja)** – A network scanning GUI-based tool for beginner of cyber security to understand CLI better.
+- **[SafeStopAI](https://replit.com/@sultanaayesha34/SafeStop-Ai)** – A web application designed using Replit for emergency notification and location sharing with family and friends.
 
 ---
 
