@@ -1,5 +1,6 @@
+ <!-- Title -->
 <h2 align="center">Hey there! , Afshan Fathima here 🤍<br>Bridging the gap between full-stack code 👩🏻‍💻 and cyber defense ⚔️</h2>
-
+ <!-- Gif -->
 <img data-importer="image" align="right" height="148" src="https://i.imgflip.com/65efzo.gif"  />
 
 <p align="center">
