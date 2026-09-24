@@ -1,5 +1,7 @@
 <h2 align="center">Hey there! , Afshan Fathima here 🤍<br>Bridging the gap between full-stack code 👩🏻‍💻 and cyber defense ⚔️</h2>
 
+<img data-importer="image" align="right" height="148" src="https://i.imgflip.com/65efzo.gif"  />
+
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=afshanfathima04@gmail.com&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
@@ -51,8 +53,8 @@
 
 ### 💻 Featured Projects
 > *(You can link some of your best repositories here!)*
-- **[Project Name 1](https://github.com/afshanfathima29)** – Brief description of your full-stack or cybersecurity project.
-- **[Project Name 2](https://github.com/afshanfathima29)** – Brief description of your data science or automation tool.
+- **[Project Name 1](https://github.com/afshanfathima29/AlertNinja)** – A network scanning GUI-based tool for beginner of cyber security to understand CLI better.
+- **[Project Name 2](https://replit.com/@sultanaayesha34/SafeStop-Ai)** – A web application designed using Replit for emergency notification and location sharing with family and friends.
 
 ---
 
